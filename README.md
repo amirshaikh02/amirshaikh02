@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **AWS, MERN**
+- 🌱 I’m currently learning **AWS Cloud, MERN**
 
 - 📫 How to reach me **iamirshaikh02@gmail.com**
 
