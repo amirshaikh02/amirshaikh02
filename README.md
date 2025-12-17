@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amir Shaikh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer | Cloud Engineer | System Administrator </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirshaikh02&label=Profile%20views&color=0e75b6&style=flat" alt="amirshaikh02" /> </p>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🌱 I’m currently working on **Jenkins CI/CD pipeline using Github, Sonarqube, and Docker on an AWS EC2 instance**
 
-- 🌱 I’m currently learning **AWS Cloud, MERN**
+- - 🔭 I’m currently working on **Full Stack Project Development On Cloud**
 
 - 📫 How to reach me **iamirshaikh02@gmail.com**
 
